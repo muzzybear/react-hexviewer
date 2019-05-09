@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import HexView from './HexView';
 import logo from './logo.svg';
 import './App.css';
-//import 'whatwg-fetch'; // WTF, where's this enabled again?
 
 class App extends Component {
   constructor() {

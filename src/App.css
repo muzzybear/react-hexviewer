@@ -24,7 +24,10 @@
 
 .App-content {
   margin-top: 50px;
-  padding: 0.5ex;
+  position: absolute;
+  top: 0;
+  height: calc(100% - 50px);
+  width: 100%;
 }
 
 @keyframes App-logo-spin {
