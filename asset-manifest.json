@@ -1,7 +1,16 @@
 {
-  "main.css": "static/css/main.276bdd1b.css",
-  "main.css.map": "static/css/main.276bdd1b.css.map",
-  "main.js": "static/js/main.acd31347.js",
-  "main.js.map": "static/js/main.acd31347.js.map",
-  "static/media/logo.svg": "static/media/logo.5d5d9eef.svg"
+  "files": {
+    "main.css": "/react-hexviewer/static/css/main.955eb73a.chunk.css",
+    "main.js": "/react-hexviewer/static/js/main.cd941241.chunk.js",
+    "main.js.map": "/react-hexviewer/static/js/main.cd941241.chunk.js.map",
+    "runtime~main.js": "/react-hexviewer/static/js/runtime~main.536c8c51.js",
+    "runtime~main.js.map": "/react-hexviewer/static/js/runtime~main.536c8c51.js.map",
+    "static/js/2.4db573c3.chunk.js": "/react-hexviewer/static/js/2.4db573c3.chunk.js",
+    "static/js/2.4db573c3.chunk.js.map": "/react-hexviewer/static/js/2.4db573c3.chunk.js.map",
+    "index.html": "/react-hexviewer/index.html",
+    "precache-manifest.9776e57862cafbd9a5f65bf8d87da51a.js": "/react-hexviewer/precache-manifest.9776e57862cafbd9a5f65bf8d87da51a.js",
+    "service-worker.js": "/react-hexviewer/service-worker.js",
+    "static/css/main.955eb73a.chunk.css.map": "/react-hexviewer/static/css/main.955eb73a.chunk.css.map",
+    "static/media/logo.svg": "/react-hexviewer/static/media/logo.5d5d9eef.svg"
+  }
 }
